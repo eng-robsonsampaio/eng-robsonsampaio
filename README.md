@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eng-robsonsampaio
 - 👀 I’m interested in technology in general
-- 🌱 I’m currently learning how to use Selenium with Python to create RPA
+- 🌱 I’m currently learning abour Data Science
 
 <!---
 eng-robsonsampaio/eng-robsonsampaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
